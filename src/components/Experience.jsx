@@ -1,5 +1,3 @@
-import React from "react";
-
 import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
@@ -11,7 +9,7 @@ import tailwind from "../assets/tailwind.png";
 import node from "../assets/node.png";
 import reactnative from "../assets/react-native.png"
 import mongodb from "../assets/mongodb.png"
-import redux from "../assets/redux.png"
+
 const Experience = () => {
   const techs = [
     {
@@ -79,13 +77,7 @@ const Experience = () => {
       src: mongodb,
       title: "MongoDB",
       style: "shadow-green-500",
-    },
-    // {
-    //   id: 12,
-    //   src: redux,
-    //   title: "Redux",
-    //   style: "shadow-purple-500",
-    // },
+    }
   ];
 
   return (
