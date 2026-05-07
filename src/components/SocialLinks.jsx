@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/itz-harsh",
+      href: "https://github.com/harshstrr",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const SocialLinks = () => {
           Email <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:hsuthar850499@gmail.com",
+      href: "mailto:hsuthar1125@gmail.com",
     },
     {
       id: 4,
